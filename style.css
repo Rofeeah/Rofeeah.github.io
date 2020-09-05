@@ -28,7 +28,6 @@
 .me {
   margin-top: 50px;
 }
-
 .Projects {
   margin-top: 100px;
 }
@@ -88,11 +87,11 @@ h1 {
     background-color: black;
   }
 
-  .horizontal {
-    display: inline;
+.horizontal {
+  display: inline;
   }
 
-  .Skills {
+.Skills {
   margin-top: 50px;
   text-align: center;
 }
