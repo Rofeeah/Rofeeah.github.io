@@ -5,18 +5,18 @@
 .myimage {
   margin-top: 50px;
   border: 6px solid white;
-  height: 455px;
+  height: 400px;
 }
 .myimage2 {
   margin-top: 50px;
   border: 6px solid white;
-  height: 455px;
+  height: 400px;
 
 }
 .myimage3 {
   margin-top: 50px;
   border: 6px solid white;
-  height: 455px;
+  height: 400px;
 }
 .about{
   background: #948787;
@@ -28,7 +28,6 @@
 .me {
   margin-top: 50px;
 }
-
 .Projects {
   margin-top: 100px;
 }
@@ -88,11 +87,11 @@ h1 {
     background-color: black;
   }
 
-  .horizontal {
-    display: inline;
+.horizontal {
+  display: inline;
   }
 
-  .Skills {
+.Skills {
   margin-top: 50px;
   text-align: center;
 }
